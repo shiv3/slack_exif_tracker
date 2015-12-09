@@ -6,6 +6,6 @@ slackに投稿されている画像のExifを解析してGPS情報からGoogle M
 
 ```
 bundle install
-ruby test.rb slack-api-token
+ruby trasla.rb slack-api-token
 ```
 
