@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem  'slack'
+gem  'slack-api'
 gem  "exifr"
