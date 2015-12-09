@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    exifr (1.2.3.1)
+    slack (0)
+      speck (>= 1)
+    speck (1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  exifr
+  slack
+
+BUNDLED WITH
+   1.10.6
